@@ -43,8 +43,20 @@ Sono uno sviluppatore junior appassionato di tecnologie front-end e back-end. Se
 
 
 ## 📫 Come contattarmi
-
-- [LinkedIn]((https://www.linkedin.com/in/federico-reiff-64542828a/))
-- [Email](mailto:freiff88@gmail.com)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/federico-reiff-64542828a/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+        <br>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:freiff88@gmail.com">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+        <br>Email
+      </a>
+    </td>
+  </tr>
+</table>
 Grazie per aver visitato il mio profilo 😊

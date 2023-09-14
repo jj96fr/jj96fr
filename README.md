@@ -1,16 +1,54 @@
-### Hi there 👋
+# Ciao, sono [Il tuo nome] 👋
 
-<!--
-**jj96fr/jj96fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno sviluppatore junior appassionato di tecnologie front-end e back-end. Sempre alla ricerca di opportunità per crescere e imparare.
 
-Here are some ideas to get you started:
+## 🛠️ Competenze Tecniche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="URL_ICONA_HTML" alt="HTML" width="40" height="40"/>
+      <br>HTML
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_CSS" alt="CSS" width="40" height="40"/>
+      <br>CSS
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_JS" alt="JavaScript" width="40" height="40"/>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_REACT" alt="React" width="40" height="40"/>
+      <br>React
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_BOOTSTRAP" alt="Bootstrap" width="40" height="40"/>
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_JAVA" alt="Java" width="40" height="40"/>
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_SPRINGBOOT" alt="Spring Boot" width="40" height="40"/>
+      <br>Spring Boot
+    </td>
+    <td align="center">
+      <img src="URL_ICONA_SQL" alt="SQL" width="40" height="40"/>
+      <br>SQL
+    </td>
+  </tr>
+</table>
+
+## 🚀 Progetti
+
+- **Nome Progetto 1**: Breve descrizione. Stack utilizzato.
+- **Nome Progetto 2**: Breve descrizione. Stack utilizzato.
+
+## 📫 Come contattarmi
+
+- [LinkedIn]((https://www.linkedin.com/in/federico-reiff-64542828a/))
+- [Email](mailto:freiff88@gmail.com)
+
+Grazie per aver visitato il mio profilo 😊

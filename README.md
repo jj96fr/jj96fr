@@ -41,10 +41,7 @@ Sono uno sviluppatore junior appassionato di tecnologie front-end e back-end. Se
   </tr>
 </table>
 
-## 🚀 Progetti
 
-- **Nome Progetto 1**: Breve descrizione. Stack utilizzato.
-- **Nome Progetto 2**: Breve descrizione. Stack utilizzato.
 
 ## 📫 Come contattarmi
 

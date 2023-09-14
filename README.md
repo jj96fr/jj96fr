@@ -1,4 +1,4 @@
-# Ciao, sono [Federico Reiff] 👋
+# Ciao, sono Federico Reiff 👋
 
 Sono uno sviluppatore junior appassionato di tecnologie front-end e back-end. Sempre alla ricerca di opportunità per crescere e imparare.
 
